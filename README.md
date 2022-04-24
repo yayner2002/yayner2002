@@ -53,7 +53,7 @@
 
 <p align="center">
 <a href="https://yayner2002.github.io/myPortfolio/"><img alt="Website" src="https://img.shields.io/badge/yayner2002.github.io/myPortfolio-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/yaynshet-medhin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-yaynshet%20medhin%20Singh-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/yaynshet-medhin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-yaynshet%20medhin-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/yayner_med/"><img alt="Instagram" src="https://img.shields.io/badge/yayner_med-blue?style=flat-square&logo=instagram"></a>
 <a href="yayner2002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/yayner2002@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
