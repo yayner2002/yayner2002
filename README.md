@@ -52,10 +52,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://yayner2002.github.io/myPortfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/yaynshet-medhin-520875127/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/yayner_med/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="yayner2002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://yayner2002.github.io/myPortfolio/"><img alt="Website" src="https://img.shields.io/badge/yayner2002.github.io/myPortfolio-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/yaynshet-medhin-520875127/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-yaynshet-medhin-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/yayner_med/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-yayner_med-blue?style=flat-square&logo=instagram"></a>
+<a href="yayner2002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/yayner2002@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
