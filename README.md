@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studied Computer Science.
 - 💼 &nbsp;  I’m currently learning Fullstack web development using React and Ruby.
-- 🌱 &nbsp; Learning more about Web development, NLP, ML and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Web development, NLP, ML and AI.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
