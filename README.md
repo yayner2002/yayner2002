@@ -48,7 +48,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yayner2002&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
