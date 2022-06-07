@@ -40,10 +40,14 @@
 
 <br/>
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
 <a href="https://github.com/yayner2002">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yayner2002&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayner2002&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yayner2002&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yayner2002&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
 
 <br/>
 
