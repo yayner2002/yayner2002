@@ -12,7 +12,7 @@
 
 - 💻 &nbsp;
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
-  ![Ruby on Rails](https://img.shields.io/badge/-ruby-on-rails-333333?style=flat&logo=ruby-on-rails&logoColor=007396)
+  ![Ruby on Rails]([https://img.shields.io/badge/-ruby-on-rails-333333?style=flat&logo=ruby-on-rails&logoColor=007396](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white))
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 🌐 &nbsp;
