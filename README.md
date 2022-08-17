@@ -12,9 +12,9 @@
 
 - 💻 &nbsp;
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
-  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-333333?style=flat&logo=ruby_on_rails)
-  ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
-  ![Laravel (Statistics)](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel&logoColor=276DC3)
+  ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-333333?style=flat&logo=ruby-on-rails)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Laravel (Statistics)](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=276DC3)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
