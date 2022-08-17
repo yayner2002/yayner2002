@@ -13,8 +13,8 @@
 - 💻 &nbsp;
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
   ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-333333?style=flat&logo=ruby_on_rails)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Laravel (Statistics)](https://img.shields.io/badge/-laravel-333333?style=flat&logo=R&logoColor=276DC3)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
